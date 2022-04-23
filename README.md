@@ -40,4 +40,4 @@ Technical Stack:
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/vcx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/detfly2021T"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
