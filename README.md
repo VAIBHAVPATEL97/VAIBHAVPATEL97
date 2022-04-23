@@ -26,8 +26,6 @@ Technical Stack:
 6. Tools: DevOps (Docker and Kubernetes), MLflow
 7. Computing and Embedded Boards: CUDA, NVIDIA Jetson boards, Raspberry Pi models
 8. Documentation and Version Control: LaTeX, Git, Github
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/VAIBHAVPATEL97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/vaibhavpatel11/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href=" https://scholar.google.com/citations?user=6p5EA_gAAAAJ&hl=en 
