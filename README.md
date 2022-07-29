@@ -9,7 +9,7 @@ Machine Learning (Research) Engineer with 2+ years of industry and academic expe
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [tech2tronixx@gmail.com (Email Header: Github Connection)](mailto:tech2tronixx@gmail.com (Email Header: Github Connection))
 * 🧠  I'm learning • Topics in Natural Language Processing and Recommedation Systems • Advanced Topics in Computer Vision
-* 🤝  I'm open to collaborating on • Computer Vision (Object Recognition or Detection or Tracking, Motion Estimation, Instance or Semantic Segmentation, GAN techniques, Real-time surveillance systems, Image Retrieval and Restoration) • Natural Language Processing (NLP) (Topic Modellng, Sentiment Analysis, Text generation) • Recommendation System (Sequential Recommedation) • Learning Techniques (Ensemble, Active, Transfer Learning)
+* 🤝  I'm open to collaborating on • Computer Vision (Object Recognition or Detection or Tracking, Motion Estimation, Instance or Semantic Segmentation, GAN techniques, Real-time surveillance systems, Image Retrieval and Restoration) • Natural Language Processing (NLP) (Topic Modelling, Sentiment Analysis, Text generation) • Recommendation System (Sequential Recommedation) • Learning Techniques (Ensemble, Active, Transfer Learning)
 * ⚡  Let's talk about F1
 
 ### Skills
