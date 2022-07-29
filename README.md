@@ -14,7 +14,7 @@ Machine Learning (Research) Engineer with 2+ years of industry and academic expe
 
 ### Skills
 Technical Stack:
-1. Programming Languages: Python, C++, MATLAB, Java
+1. Programming Languages: Python, MATLAB, C++, Java
 2. Databases: SQL, PostgreSQL, MySQL, MS SQL.
 3. Machine Learning (Python) Packages 
  Data Analysis: Numpy, Pandas, SciPy
@@ -23,7 +23,7 @@ Technical Stack:
  Natural Language Processing: NLTK, Spacy
 4. Web Technologies: HTML, CSS, JavaScript, Flask, Streamlit
 5. Methodologies: Agile/Scrum Methodology, Object-Oriented design, Software Development Lifecycle (SDLC)
-6. Tools: DevOps (Docker and Kubernetes), MLflow
+6. Tools: DevOps (Docker), MLflow, DVC
 7. Computing and Embedded Boards: CUDA, NVIDIA Jetson boards, Raspberry Pi models
 8. Documentation and Version Control: LaTeX, Git, Github
 ### Socials
