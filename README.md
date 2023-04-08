@@ -1,4 +1,4 @@
-Hi 👋 My name is Vaibhav Patel
+Hi 👋
 ==============================
 
 Machine Learning (Research) Engineer
